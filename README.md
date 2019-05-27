@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+New to Github
+
+Looking to make a difference in coding one line at a time!
